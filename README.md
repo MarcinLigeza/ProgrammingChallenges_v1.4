@@ -6,7 +6,7 @@
  - [ ] 02 Temperature converter
  - [ ] 03 Calculate age in seconds (with leap years)
  - [ ] 04 Encryption/decryption algorithm
- - [ ] 05 FizzBuzz
+ - [x] 05 FizzBuzz
  - [ ] 06 Rock, paper, scissors (+ lizard, Spock)
  - [ ] 07 Project Euler (in every language you know)
  - [ ] 08 Hangman
