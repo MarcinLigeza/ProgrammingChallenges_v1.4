@@ -1,0 +1,1 @@
+/usr/bin/g++-8  -g  -rdynamic CMakeFiles/Name_Generator.dir/main.cpp.o  -o Name_Generator 

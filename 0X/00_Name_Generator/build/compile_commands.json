@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/marcin/gitHub/ProgrammingChallenges_v1.4/0X/00_Name_Generator/build",
+  "command": "/usr/bin/g++-8    -g   -o CMakeFiles/Name_Generator.dir/main.cpp.o -c /home/marcin/gitHub/ProgrammingChallenges_v1.4/0X/00_Name_Generator/main.cpp",
+  "file": "/home/marcin/gitHub/ProgrammingChallenges_v1.4/0X/00_Name_Generator/main.cpp"
+}
+]
