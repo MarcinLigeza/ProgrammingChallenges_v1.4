@@ -1,7 +1,7 @@
 # ProgrammingChallenges_v1.4
 ![Alt text](challenges.jpg?raw=true)
 
- - [ ] 00 Name generator ( [ ] credentials)
+ - [x] 00 Name generator ( [ ] credentials)
  - [ ] 01 Higher/lower, heads/tails
  - [ ] 02 Temperature converter
  - [ ] 03 Calculate age in seconds (with leap years)

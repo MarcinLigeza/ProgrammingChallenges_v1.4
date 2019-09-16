@@ -11,7 +11,7 @@ int main(int, char**) {
     print_title("Name Generator");
 
     auto names = read_file("names.txt");
-    auto last_names = read_file("last_names.txt");    
+    auto last_names = read_file("last_names.txt");
 
     auto name = names[get_random_in_range(0, names.size())];
     auto last_name = last_names[get_random_in_range(0, last_names.size())];
