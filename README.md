@@ -1,13 +1,13 @@
 # ProgrammingChallenges_v1.4
 ![Alt text](challenges.jpg?raw=true)
 
- - [ ] 00 Name generator ([ ] credentials)
+ - [ ] 00 Name generator ( [ ] credentials)
  - [ ] 01 Higher/lower, heads/tails
  - [ ] 02 Temperature converter
  - [ ] 03 Calculate age in seconds (with leap years)
  - [ ] 04 Encryption/decryption algorithm
  - [x] 05 FizzBuzz
- - [ ] 06 Rock, paper, scissors ([ ] lizard, Spock)
+ - [ ] 06 Rock, paper, scissors ( [ ] lizard, Spock)
  - [ ] 07 Project Euler (in every language you know)
  - [ ] 08 Hangman
  - [ ] 09 Love calculator
@@ -37,7 +37,7 @@
  - [ ] 33 Generate ASCII tree
  - [ ] 34 Genetic algorithms on polygons
  - [ ] 35 Benford's law
- - [ ] 36 Currency converter ([ ] various units, comodities, etc.; + history)
+ - [ ] 36 Currency converter ( [ ] various units, comodities, etc.; + history)
  - [ ] 37 Static website generator
  - [ ] 38 Crossword game
  - [ ] 39 Scientific calculator (CLI)
@@ -58,8 +58,8 @@
  - [ ] 53 Text editor
  - [ ] 54 RSS feed reader
  - [ ] 55 RPN calculator
- - [ ] 56 Mandelbrot set ([ ] other fractals)
- - [ ] 57 Sorting algorithms ([ ] visualisation)
+ - [ ] 56 Mandelbrot set ( [ ] other fractals)
+ - [ ] 57 Sorting algorithms ( [ ] visualisation)
  - [ ] 58 Custom markup -> HTML converter
  - [ ] 59 N queens problem
  - [ ] 60 Flow in a network (Ford-Fulkerson algorithm)
@@ -83,7 +83,7 @@
  - [ ] 78 Knight's tour
  - [ ] 79 Chip-8 emulator
  - [ ] 80 Geekcode generator (3.12)
- - [ ] 81 Define, translate & rotate a polygon ([ ] other affine transformations)
+ - [ ] 81 Define, translate & rotate a polygon ( [ ] other affine transformations)
  - [ ] 82 Pong with variable vectors
  - [ ] 83 Battleships with AI
  - [ ] 84 Simple paint program
@@ -101,7 +101,7 @@
  - [ ] 96 Dot & cross product of two vectors (exterior product)
  - [ ] 97 Little Man computer simulation
  - [ ] 98 Lisp interpreter
- - [ ] 99 Enigma simulator with a configuration file ([ ] decrypt messages without known settings)
+ - [ ] 99 Enigma simulator with a configuration file ( [ ] decrypt messages without known settings)
  
  *Implement at least one of Rumkin Collection: rumkin.com/tools/cipher
  
