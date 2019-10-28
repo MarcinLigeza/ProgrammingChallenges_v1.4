@@ -4,7 +4,7 @@
  - [x] 00 Name generator ( [ ] credentials)
  - [ ] 01 Higher/lower, heads/tails
  - [ ] 02 Temperature converter
- - [ ] 03 Calculate age in seconds (with leap years)
+ - [x] 03 Calculate age in seconds (with leap years)
  - [ ] 04 Encryption/decryption algorithm
  - [x] 05 FizzBuzz
  - [ ] 06 Rock, paper, scissors ( [ ] lizard, Spock)
